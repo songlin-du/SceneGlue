@@ -8,6 +8,8 @@ Local feature matching plays a critical role in understanding the correspondence
 ```shell
 # Paper
 https://arxiv.org/abs/2604.13941
+```
+
 
 ## Installation
 ```shell
