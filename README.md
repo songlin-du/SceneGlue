@@ -24,6 +24,7 @@ SceneGlue is a scene-aware feature matching framework that overcomes the localit
 ```shell
 https://ieeexplore.ieee.org/document/11483154
 https://arxiv.org/abs/2604.13941
+```
 
 ---
 
