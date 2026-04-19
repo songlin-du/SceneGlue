@@ -25,6 +25,8 @@ SceneGlue is a scene-aware feature matching framework that overcomes the localit
 https://ieeexplore.ieee.org/document/11483154
 https://arxiv.org/abs/2604.13941
 
+---
+
 ## Installation
 ```shell
 conda env create -f environment.yaml
@@ -35,6 +37,7 @@ We provide the [download link](https://drive.google.com/drive/folders/1DOcOPZb3-
   - the scannet-1500-testset (~1GB).
   - the megadepth-1500-testset (~600MB).
 
+---
 
 ## Test
 You need to setup the testing subsets of ScanNet and MegaDepth first. We create symlinks from the previously downloaded datasets to `data/{{dataset}}/test`.
@@ -57,8 +60,11 @@ conda activate sceneglue
 bash ./scripts/reproduce_test/indoor.sh
 ```
 
+---
+
 ## Citation
 
+```bibtex
 @ARTICLE{SceneGlue,
   author={Du, Songlin and Lu, Xiaoyong and Yan, Yaping and Xiao, Guobao and Lu, Xiaobo and Ikenaga, Takeshi},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
@@ -66,5 +72,6 @@ bash ./scripts/reproduce_test/indoor.sh
   year={2026},
   doi={10.1109/TCSVT.2026.3684799}
 }
+```
 
 <br/>
