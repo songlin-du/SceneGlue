@@ -56,7 +56,7 @@ conda activate sceneglue
 bash ./scripts/reproduce_test/indoor.sh
 ```
 
-![](./visualization.jpg)
+![](./visualiaztion.jpg)
 
 ---
 
