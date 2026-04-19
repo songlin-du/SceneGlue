@@ -17,9 +17,8 @@ https://arxiv.org/abs/2604.13941
 
 - SceneGlue goes beyond traditional point-level matching by introducing **scene-aware feature matching**, integrating global scene information with local correspondences.  
 - It combines **implicit scene modeling (via parallel self- and cross-attention)** with **explicit reasoning (via a Visibility Transformer for cross-view visibility estimation)**.  
-- The proposed **parallel attention mechanism** enables more efficient and richer interactions than the sequential attention used in prior methods.  
-- SceneGlue also improves feature representation through **multi-scale descriptors and wave-based position encoding**, enhancing robustness to scale and geometry variations.  
-- Importantly, it learns scene-level awareness **without requiring scene-level annotations**, achieving better accuracy, robustness, and interpretability than existing methods.  
+- **Parallel attention mechanism** enables more efficient and richer interactions than the sequential attention used in prior methods.  
+- SceneGlue improves feature representation through **multi-scale descriptors and wave-based position encoding**, enhancing robustness to scale and geometry variations.  
 
 ---
 
