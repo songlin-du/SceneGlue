@@ -1,8 +1,6 @@
-<div align="center">
 # SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation
 
 IEEE Transactions on Circuits and Systems for Video Technology, 2026
-</div>
 
 
 <br/>
