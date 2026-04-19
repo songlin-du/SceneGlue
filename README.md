@@ -1,18 +1,13 @@
 # SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation
 
 **IEEE Transactions on Circuits and Systems for Video Technology**, 2026
+<br/>
+## Introduction
+SceneGlue is a scene-aware feature matching framework that overcomes the locality limitation of traditional descriptors by integrating parallel attention for implicit global context modeling and a Visibility Transformer for explicit cross-view visibility estimation. By jointly leveraging implicit and explicit scene-level awareness without requiring scene-level annotations, it significantly improves matching accuracy, robustness, and interpretability across multiple vision tasks.
 ```shell
 https://ieeexplore.ieee.org/document/11483154
 https://arxiv.org/abs/2604.13941
 ```
-
----
-
-<br/>
-
-## Introduction
-SceneGlue is a scene-aware feature matching framework that overcomes the locality limitation of traditional descriptors by integrating parallel attention for implicit global context modeling and a Visibility Transformer for explicit cross-view visibility estimation. By jointly leveraging implicit and explicit scene-level awareness without requiring scene-level annotations, it significantly improves matching accuracy, robustness, and interpretability across multiple vision tasks.
-
 ---
 
 ## What makes SceneGlue special?
